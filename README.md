@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Github Repositories Explorer**
+# **Github Repositories Explorer**
 
 </div>
 
 <div align='center'>
 
-[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react-github-repositories-explorer)](https://github.com/gezielelyon/react-github-repositories-explorer/issues)
-[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react-github-repositories-explorer)](https://github.com/gezielelyon/react-github-repositories-explorer/network)
-[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/react-github-repositories-explorer)](https://github.com/gezielelyon/react-github-repositories-explorer/stargazers)
-[![GitHub license](https://img.shields.io/github/license/gezielelyon/react-github-repositories-explorer)](https://github.com/gezielelyon/react-github-repositories-explorer)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/github-repositories-explorer)](https://github.com/gezielelyon/github-repositories-explorer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/github-repositories-explorer)](https://github.com/gezielelyon/github-repositories-explorer/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/github-repositories-explorer)](https://github.com/gezielelyon/github-repositories-explorer/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/github-repositories-explorer)](https://github.com/gezielelyon/github-repositories-explorer)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-components-blue)
 ![React](https://img.shields.io/badge/React-components-orange)
